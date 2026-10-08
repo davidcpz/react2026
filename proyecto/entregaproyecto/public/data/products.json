@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Zapatilla Gris y Negra",
+    "description": "Zapatilla deportiva en tonos gris y negro, cómoda y versátil para uso diario.",
+    "price": 89990,
+    "image": "/img/footware/zapatilla_gris_y_negra.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 2,
+    "name": "Zapatillas Blancas",
+    "description": "Zapatillas blancas de diseño clásico, ideales para combinar con distintos estilos.",
+    "price": 84990,
+    "image": "/img/footware/zapatillas_blancas.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 3,
+    "name": "Zapatillas Celestes",
+    "description": "Zapatillas celestes de estilo deportivo, livianas y cómodas para uso cotidiano.",
+    "price": 87990,
+    "image": "/img/footware/zapatillas_celeste.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 4,
+    "name": "Zapatillas Rojas",
+    "description": "Zapatillas rojas de diseño moderno, pensadas para brindar comodidad y estilo.",
+    "price": 92990,
+    "image": "/img/footware/zapatillas_rojas.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 5,
+    "name": "Zapatillas Verdes",
+    "description": "Zapatillas verdes de estilo urbano y deportivo, ideales para el uso diario.",
+    "price": 89990,
+    "image": "/img/footware/zapatillas_verdes.jpg",
+    "category": "Zapatillas"
+  }
+]

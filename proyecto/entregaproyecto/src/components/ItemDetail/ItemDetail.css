@@ -1,0 +1,33 @@
+.detail-wrapper {
+    max-width: 700px;
+    margin: 30px auto;
+}
+
+.detail-wrapper .card {
+    padding: 25px;
+}
+
+.detail-wrapper .card img {
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+}
+
+.detail-wrapper .card h3 {
+    font-size: 26px;
+    margin: 20px 0 10px;
+}
+
+.detail-wrapper .card p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.detail-wrapper button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
